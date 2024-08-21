@@ -1,0 +1,2 @@
+This website is a simple website for making crud operation for posts you can create a post by adding the title name and content and author using a class named Posts containing posts attribut and methods for crud operation each operation had a default php file acting like a route 
+for the project start up you had just to cd to the main directory and then type "php -S localhost:8000" for now there is a bug in css code but the logic is working
